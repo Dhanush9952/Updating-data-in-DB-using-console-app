@@ -1,0 +1,6 @@
+F:\visual studio 2012\Projects\EmploySearch\EmploySearch\bin\Debug\EmploySearch.exe.config
+F:\visual studio 2012\Projects\EmploySearch\EmploySearch\bin\Debug\EmploySearch.exe
+F:\visual studio 2012\Projects\EmploySearch\EmploySearch\bin\Debug\EmploySearch.pdb
+F:\visual studio 2012\Projects\EmploySearch\EmploySearch\obj\Debug\EmploySearch.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\Projects\EmploySearch\EmploySearch\obj\Debug\EmploySearch.exe
+F:\visual studio 2012\Projects\EmploySearch\EmploySearch\obj\Debug\EmploySearch.pdb
